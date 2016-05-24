@@ -1,0 +1,5 @@
+name: TSMCBot
+author: akselm
+version: 1.0
+depend: [DroolChat]
+main: code.akselm.tsmcbot.TSMCBot
